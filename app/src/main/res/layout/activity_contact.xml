@@ -8,6 +8,10 @@
     android:padding="10dp"
     tools:context=".Contact">
 
+
+
+
+    
     <TextView
         android:id="@+id/textView"
         android:layout_width="0dp"
